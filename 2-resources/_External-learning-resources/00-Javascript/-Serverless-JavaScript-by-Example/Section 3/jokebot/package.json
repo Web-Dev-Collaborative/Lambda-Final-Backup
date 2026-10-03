@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.17.1",
+    "axios": "^0.21.0",
     "one-liner-joke": "^1.0.0"
   }
 }
